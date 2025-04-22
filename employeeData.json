@@ -1,0 +1,201 @@
+[
+    {
+        "orderNumber": 23103,
+        "channel": "Ajio",
+        "styleNumber": 12035,
+        "size": "XL",
+        "lastScanner": "Dilshad",
+        "createdTime": "11-03-2025 14:07:01",
+        "lastScanTime": "12-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23104,
+        "channel": "Tatacliq",
+        "styleNumber": 12036,
+        "size": "2XL",
+        "lastScanner": "Manish Kumar",
+        "createdTime": "12-03-2025 14:07:22",
+        "lastScanTime": "13-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23105,
+        "channel": "Shoppersstop",
+        "styleNumber": 12037,
+        "size": "3XL",
+        "lastScanner": "Ranjeet",
+        "createdTime": "13-03-2025 14:07:26",
+        "lastScanTime": "14-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23106,
+        "channel": "Myntra",
+        "styleNumber": 12038,
+        "size": "4XL",
+        "lastScanner": "Upendra",
+        "createdTime": "14-03-2025 14:07:01",
+        "lastScanTime": "15-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23107,
+        "channel": "Nykaa",
+        "styleNumber": 12039,
+        "size": "5XL",
+        "lastScanner": "Sony ji",
+        "createdTime": "15-03-2025 14:07:01",
+        "lastScanTime": "16-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23108,
+        "channel": "Shopify",
+        "styleNumber": 12040,
+        "size": "S",
+        "lastScanner": "Ranjeet",
+        "createdTime": "16-03-2025 14:07:01",
+        "lastScanTime": "17-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23109,
+        "channel": "Ajio",
+        "styleNumber": 12041,
+        "size": "M",
+        "lastScanner": "Dilshad",
+        "createdTime": "17-03-2025 14:07:01",
+        "lastScanTime": "18-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23110,
+        "channel": "Ajio",
+        "styleNumber": 12042,
+        "size": "L",
+        "lastScanner": "Upendra",
+        "createdTime": "18-03-2025 14:07:01",
+        "lastScanTime": "19-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23111,
+        "channel": "Ajio",
+        "styleNumber": 12043,
+        "size": "XL",
+        "lastScanner": "Manish Kumar",
+        "createdTime": "19-03-2025 14:07:01",
+        "lastScanTime": "20-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23112,
+        "channel": "Ajio",
+        "styleNumber": 12044,
+        "size": "2XL",
+        "lastScanner": "Manish Kumar",
+        "createdTime": "20-03-2025 14:07:01",
+        "lastScanTime": "21-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23113,
+        "channel": "Ajio",
+        "styleNumber": 12045,
+        "size": "3XL",
+        "lastScanner": "Upendra",
+        "createdTime": "21-03-2025 14:07:01",
+        "lastScanTime": "22-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23114,
+        "channel": "Tatacliq",
+        "styleNumber": 12046,
+        "size": "XL",
+        "lastScanner": "Ranjeet",
+        "createdTime": "22-03-2025 14:07:01",
+        "lastScanTime": "23-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23115,
+        "channel": "Tatacliq",
+        "styleNumber": 12047,
+        "size": "2XL",
+        "lastScanner": "Ranjeet",
+        "createdTime": "23-03-2025 14:07:01",
+        "lastScanTime": "24-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23116,
+        "channel": "Tatacliq",
+        "styleNumber": 12048,
+        "size": "3XL",
+        "lastScanner": "Dilshad",
+        "createdTime": "24-03-2025 14:07:01",
+        "lastScanTime": "25-03-2025 14:07:01"
+    },
+    {
+        "orderNumber": 23117,
+        "channel": "Tatacliq",
+        "styleNumber": 12049,
+        "size": "XL",
+        "lastScanner": "Dilshad",
+        "createdTime": "25-03-2025 14:07:01",
+        "lastScanTime": "26-03-2025 14:07:01"
+    },
+    
+     {
+        "orderNumber": 231183,
+        "channel": "Tatacliq",
+        "styleNumber": 12050,
+        "size": "2XL",
+        "lastScanner": "Mahesh",
+        "createdTime": "26-03-2025 14:07:01",
+        "lastScanTime": "27-03-2025 14:07:01"
+    },
+     {
+        "orderNumber": 231188,
+        "channel": "Tatacliq",
+        "styleNumber": 12050,
+        "size": "2XL",
+        "lastScanner": "Subhas",
+        "createdTime": "26-03-2025 14:07:01",
+        "lastScanTime": "27-03-2025 14:07:01"
+    },
+     {
+        "orderNumber": 23118,
+        "channel": "Tatacliq",
+        "styleNumber": 12050,
+        "size": "2XL",
+        "lastScanner": "Shan",
+        "createdTime": "26-03-2025 14:07:01",
+        "lastScanTime": "27-03-2025 14:07:01"
+    },
+     {
+        "orderNumber": 231187,
+        "channel": "Tatacliq",
+        "styleNumber": 12050,
+        "size": "2XL",
+        "lastScanner": "Satpal",
+        "createdTime": "26-03-2025 14:07:01",
+        "lastScanTime": "27-03-2025 14:07:01"
+    },
+     {
+        "orderNumber": 23115874,
+        "channel": "Tatacliq",
+        "styleNumber": 14098,
+        "size": "2XL",
+        "lastScanner": "Upendra",
+        "createdTime": "26-03-2025 14:08:01",
+        "lastScanTime": "27-03-2025 14:01:01"
+    },
+    {
+        "orderNumber": 2314,
+        "channel": "Tatacliq",
+        "styleNumber": 15020,
+        "size": "2XL",
+        "lastScanner": "Upendra",
+        "createdTime": "26-03-2025 14:08:01",
+        "lastScanTime": "27-03-2025 14:01:01"
+    },
+    {
+        "orderNumber": 237854,
+        "channel": "Tatacliq",
+        "styleNumber": 16020,
+        "size": "2XL",
+        "lastScanner": "Upendra",
+        "createdTime": "26-03-2025 14:08:01",
+        "lastScanTime": "27-03-2025 14:01:01"
+    }
+]
