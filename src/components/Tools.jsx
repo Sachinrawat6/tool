@@ -18,6 +18,7 @@ export const header_with_url = [
     url: "https://whatisproduct.netlify.app/",
     icon: <FaSearch />,
   },
+
   {
     header: "Inventory management",
     url: "https://sachinrawat6.github.io/test/",
@@ -27,6 +28,11 @@ export const header_with_url = [
     header: "RackSpace Finder",
     url: "https://rackspaceupdater.netlify.app/",
     icon: <FaWarehouse />,
+  },
+  {
+    header: "QrCode Generator",
+    url: "https://sachinrawat6.github.io/QrCode/",
+    icon: <FaUserCircle />,
   },
   {
     header: "PickList to MRP Label",
@@ -58,6 +64,7 @@ export const header_with_url = [
     url: "https://tailordashboard.netlify.app/",
     icon: <FaUserCircle />,
   },
+ 
 ];
 
 const Tools = () => {
