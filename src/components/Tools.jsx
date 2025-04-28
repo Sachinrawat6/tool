@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link,useLocation  } from "react-router-dom";
 
 import {
   FaSearch,
@@ -69,11 +69,20 @@ export const header_with_url = [
  
 ];
 const Tools = () => {
+  const location = useLocation();
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <Link to="/" className="bg-gray-200 py-2 px-4 rounded shadow hover:bg-gray-100">
-      Back
-      </Link>
+   <div>
+      {location.pathname !== "/" && (
+        <Link 
+          to="/" 
+          className="bg-gray-200 py-2 px-4 rounded shadow hover:bg-gray-100 transition-colors duration-200"
+        >
+          Back
+        </Link>
+      )}
+    </div>
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-900 mb-3">Qurvii Tools</h1>
         <div className="w-24 h-1 bg-blue-600 mx-auto rounded-full"></div>

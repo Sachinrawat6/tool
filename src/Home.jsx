@@ -2,36 +2,48 @@ import React from "react";
 
 import { FaTools, FaRocket, FaChartLine, FaUsers } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import Tools from "./components/Tools";
 
 const HomePage = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
-      <header className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20 px-4 sm:px-6 lg:px-8">
+      <header className="bg-gradient-to-r hero from-blue-600  mx-auto relative  h-160 to-blue-800 text-blue-600 py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">Supercharge Your Workflow</h1>
-          <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-8">
-            Qurvii Tools provides a suite of productivity applications designed to streamline your operations and boost efficiency.
-          </p>
+          
           <div className="flex flex-col sm:flex-row justify-center gap-4">
+          <a 
+              href="#features" 
+              className="bg-transparent border-2 border-white px-8 py-3 rounded-lg font-medium hover:bg-white hover:text-blue-600 transition duration-300"
+            >
+              Learn More
+            </a>
             <Link
               to="/tool" 
               className="bg-white text-blue-600 px-8 py-3 rounded-lg font-medium hover:bg-blue-50 transition duration-300 shadow-lg"
             >
               Explore Tools
             </Link>
-            <a 
-              href="#features" 
-              className="bg-transparent border-2 border-white px-8 py-3 rounded-lg font-medium hover:bg-white hover:text-blue-600 transition duration-300"
-            >
-              Learn More
-            </a>
+           
           </div>
         </div>
       </header>
 
+
+
+       {/* Tools Section */}
+       <section id="tools" className="py-16 px-4 sm:px-6 lg:px-8 bg-gray-50">
+        <div className="max-w-7xl mx-auto">
+          <h2 className="text-3xl font-bold text-center text-gray-900 mb-4">Our Productivity Suite</h2>
+          <p className="text-xl text-center text-gray-600 mb-12 max-w-3xl mx-auto">
+            Browse our collection of specialized tools designed to optimize your daily operations.
+          </p>
+          <Tools />
+        </div>
+      </section>
+
       {/* Features Section */}
-      <section id="features" className="py-16 px-4 sm:px-6 lg:px-8 bg-white">
+      {/* <section id="features" className="py-16 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">Why Choose Qurvii Tools?</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -67,18 +79,9 @@ const HomePage = () => {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
-      {/* Tools Section */}
-      <section id="tools" className="py-16 px-4 sm:px-6 lg:px-8 bg-gray-50">
-        <div className="max-w-7xl mx-auto">
-          <h2 className="text-3xl font-bold text-center text-gray-900 mb-4">Our Productivity Suite</h2>
-          <p className="text-xl text-center text-gray-600 mb-12 max-w-3xl mx-auto">
-            Browse our collection of specialized tools designed to optimize your daily operations.
-          </p>
-          {/* <Tools /> Your existing Tools component */}
-        </div>
-      </section>
+     
 
       {/* CTA Section */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 bg-blue-600 text-white">
@@ -87,12 +90,12 @@ const HomePage = () => {
           <p className="text-xl mb-8">
             Start using Qurvii Tools today and experience the difference in productivity.
           </p>
-          <a 
-            href="#tools" 
+          <Link
+            to="/tool" 
             className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-medium hover:bg-gray-100 transition duration-300 shadow-lg text-lg"
           >
             Get Started Now
-          </a>
+          </Link>
         </div>
       </section>
 

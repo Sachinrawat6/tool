@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.hero{
+    background: url("https://media.istockphoto.com/id/1370911387/photo/work-tools-still-life.jpg?s=612x612&w=0&k=20&c=s2CRTlteoag2rkwISVlTEvZ_XQdkcRxJLhEMRuOXOko=");
+    background-size: 100% 100%;
+}
