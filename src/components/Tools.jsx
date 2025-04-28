@@ -11,6 +11,7 @@ import {
   FaTruck,
   FaUserCircle,
 } from "react-icons/fa";
+import { ImQrcode } from "react-icons/im";
 
 export const header_with_url = [
   {
@@ -32,7 +33,7 @@ export const header_with_url = [
   {
     header: "QrCode Generator",
     url: "https://sachinrawat6.github.io/QrCode/",
-    icon: <FaUserCircle />,
+    icon: <ImQrcode/>,
   },
   {
     header: "PickList to MRP Label",
