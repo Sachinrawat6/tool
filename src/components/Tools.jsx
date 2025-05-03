@@ -14,6 +14,7 @@ import {
 } from "react-icons/fa";
 import { ImQrcode } from "react-icons/im";
 
+
 export const header_with_url = [
   {
     header: "Product Finder",
@@ -24,6 +25,11 @@ export const header_with_url = [
   {
     header: "Inventory management",
     url: "https://sachinrawat6.github.io/test/",
+    icon: <FaBoxes />,
+  },
+  {
+    header: "New Inventory management",
+    url: "https://qurviiinventory.netlify.app/",
     icon: <FaBoxes />,
   },
   {
