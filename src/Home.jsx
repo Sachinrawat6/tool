@@ -12,12 +12,12 @@ const HomePage = () => {
         <div className="max-w-7xl mx-auto text-center">
           
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-          <a 
+          {/* <a 
               href="#features" 
               className="bg-transparent border-2 border-white px-8 py-3 rounded-lg font-medium hover:bg-white hover:text-blue-600 transition duration-300"
             >
               Learn More
-            </a>
+            </a> */}
             <Link
               to="/tool" 
               className="bg-white text-blue-600 px-8 py-3 rounded-lg font-medium hover:bg-blue-50 transition duration-300 shadow-lg"

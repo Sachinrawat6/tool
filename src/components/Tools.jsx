@@ -11,8 +11,11 @@ import {
   FaUserTie,
   FaTruck,
   FaUserCircle,
+  FaTag,
+  FaProductHunt,
 } from "react-icons/fa";
 import { ImQrcode } from "react-icons/im";
+
 
 
 export const header_with_url = [
@@ -22,11 +25,6 @@ export const header_with_url = [
     icon: <FaSearch />,
   },
 
-  {
-    header: "Inventory management",
-    url: "https://sachinrawat6.github.io/test/",
-    icon: <FaBoxes />,
-  },
   {
     header: "New Inventory management",
     url: "https://qurviiinventory.netlify.app/",
@@ -43,10 +41,16 @@ export const header_with_url = [
     icon: <ImQrcode/>,
   },
   {
-    header: "PickList to MRP Label",
-    url: "https://mrplabel.netlify.app/",
-    icon: <FaFileInvoice />,
+    header: "MRP TAG WITH QR CODE",
+    url: "https://mrptag.netlify.app/",
+    icon: <FaTag />,
   },
+  {
+    header: "RETURN INVENTORY STOCK",
+    url: "https://scanreturn.netlify.app/",
+    icon: <FaBoxes />,
+  },
+  
   {
     header: "Shopify Picklist",
     url: "https://shopifypick.netlify.app//",
@@ -72,6 +76,21 @@ export const header_with_url = [
     url: "https://tailordashboard.netlify.app/",
     icon: <FaUserCircle />,
   },
+  {
+    header: "Product Catalogue",
+    url: "https://qurviicatalogue.netlify.app/",
+    icon: <FaProductHunt />,
+  },
+  {
+    header: "PRODUCT SEARCHER ADMIN DASHBOARD",
+    url: "https://iadminpanel.netlify.app/",
+    icon: <FaUserCircle />,
+  },
+  {
+    header: "MRP TAG PRINTER",
+    url: "https://tagprinter.netlify.app/",
+    icon: <FaTag />,
+  },
  
 ];
 const Tools = () => {
@@ -94,6 +113,9 @@ const Tools = () => {
         <div className="w-24 h-1 bg-blue-600 mx-auto rounded-full"></div>
         <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
           A collection of productivity tools to streamline your workflow
+        </p>
+        <p className="font-medium mt-2 text-blue-500">
+          {header_with_url.length} Products
         </p>
       </div>
 
