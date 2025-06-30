@@ -50,6 +50,12 @@ export const header_with_url = [
     url: "https://scanreturn.netlify.app/",
     icon: <FaBoxes />,
   },
+  {
+    header: "SHOPIFY OMS",
+    url: "https://shopifyoms.netlify.app/",
+    icon: <FaBoxes />,
+  },
+  
   
   {
     header: "Shopify Picklist",
@@ -71,9 +77,14 @@ export const header_with_url = [
     url: "https://qurviitrack.netlify.app/",
     icon: <FaTruck />,
   },
-  {
+  // {
+  //   header: "Employee Dashboard",
+  //   url: "https://tailordashboard.netlify.app/",
+  //   icon: <FaUserCircle />,
+  // },
+   {
     header: "Employee Dashboard",
-    url: "https://tailordashboard.netlify.app/",
+    url: "https://qurviidash.netlify.app/",
     icon: <FaUserCircle />,
   },
   {
