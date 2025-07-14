@@ -30,6 +30,11 @@ export const header_with_url = [
     url: "https://qurviiinventory.netlify.app/",
     icon: <FaBoxes />,
   },
+   {
+    header: "Scan Clone",
+    url: "https://scanclone.netlify.app/",
+    icon: <ImQrcode />,
+  },
   {
     header: "RackSpace Finder",
     url: "https://rackspaceupdater.netlify.app/",
