@@ -24,6 +24,11 @@ export const header_with_url = [
     url: "https://whatisproduct.netlify.app/",
     icon: <FaSearch />,
   },
+   {
+    header: "Cutting List Generator",
+    url: "https://cuttinglist.netlify.app",
+    icon: <FaBoxes />,
+  },
 
   {
     header: "New Inventory management",
