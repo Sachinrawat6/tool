@@ -40,6 +40,16 @@ export const header_with_url = [
     url: "https://scanclone.netlify.app/",
     icon: <ImQrcode />,
   },
+   {
+    header: "Pakcing With Tracking",
+    url: "https://packingwithtracking.netlify.app/",
+    icon: <FaWarehouse />,
+  },
+   {
+    header: "Stylewise",
+    url: "https://stylewise.netlify.app/",
+    icon: <FaWarehouse />,
+  },
   {
     header: "RackSpace Finder",
     url: "https://rackspaceupdater.netlify.app/",
