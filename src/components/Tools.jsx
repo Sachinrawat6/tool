@@ -36,6 +36,11 @@ export const header_with_url = [
     icon: <FaBoxes />,
   },
    {
+    header: "Qurvii Discount",
+    url: "https://qurviidiscount.netlify.app",
+    icon: <FaWarehouse />,
+  },
+   {
     header: "Scan Clone",
     url: "https://scanclone.netlify.app/",
     icon: <ImQrcode />,
