@@ -102,11 +102,11 @@ export const header_with_url = [
     url: "https://qurviitrack.netlify.app/",
     icon: <FaTruck />,
   },
-  // {
-  //   header: "Employee Dashboard",
-  //   url: "https://tailordashboard.netlify.app/",
-  //   icon: <FaUserCircle />,
-  // },
+  {
+    header: "Picklist with RackSpaces",
+    url: "https://picklistwithrackspace.netlify.app/",
+    icon: <FaUserCircle />,
+  },
    {
     header: "Employee Dashboard",
     url: "https://qurviidash.netlify.app/",
