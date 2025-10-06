@@ -46,6 +46,11 @@ export const header_with_url = [
     icon: <FaBoxes />,
   },
    {
+    header: "Raw Material Inventory",
+    url: "https://fabricpro.netlify.app",
+    icon: <FaBoxes />,
+  },
+   {
     header: "Scan Clone",
     url: "https://scanclone.netlify.app/",
     icon: <ImQrcode />,
