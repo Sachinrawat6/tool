@@ -96,22 +96,12 @@ export const header_with_url = [
     icon: <FaBoxes />,
   },
   
-  
-  {
-    header: "Shopify Picklist",
-    url: "https://shopifypick.netlify.app//",
-    icon: <FaShopify />,
-  },
   {
     header: "ShoppersStop Picklist",
     url: "https://sspicklist.netlify.app/",
     icon: <FaShoppingBag />,
   },
-  {
-    header: "Tailor Management",
-    url: "https://newtailor.netlify.app",
-    icon: <FaUserTie />,
-  },
+
   {
     header: "Shopify Order Tracker",
     url: "https://qurviitrack.netlify.app/",
@@ -127,21 +117,13 @@ export const header_with_url = [
     url: "https://qurviidash.netlify.app/",
     icon: <FaUserCircle />,
   },
-  {
-    header: "Product Catalogue",
-    url: "https://qurviicatalogue.netlify.app/",
-    icon: <FaProductHunt />,
-  },
+
   {
     header: "PRODUCT SEARCHER ADMIN DASHBOARD",
     url: "https://iadminpanel.netlify.app/",
     icon: <FaUserCircle />,
   },
-  {
-    header: "MRP TAG PRINTER",
-    url: "https://tagprinter.netlify.app/",
-    icon: <FaTag />,
-  },
+
  
 ];
 const Tools = () => {
