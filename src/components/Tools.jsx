@@ -160,7 +160,7 @@ const Tools = () => {
       )}
     </div>
       <div className="text-center mb-12">
-        <h1 className="text-4xl font-bold text-gray-900 mb-3">Qurvii Tools</h1>
+        <h1 className="text-4xl font-bold text-gray-900 mb-3">Qurvii Pulse Tools</h1>
         <div className="w-24 h-1 bg-blue-600 mx-auto rounded-full"></div>
         <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
           A collection of productivity tools to streamline your workflow
