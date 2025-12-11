@@ -51,6 +51,11 @@ export const header_with_url = [
     icon: <FaBoxes />,
   },
    {
+    header: "Zero Stock Analyzer",
+    url: "https://zerostockanalyzer.netlify.app",
+    icon: <FaBoxes />,
+  },
+   {
     header: "Raw Material Inventory",
     url: "https://fabricpro.netlify.app",
     icon: <FaBoxes />,
