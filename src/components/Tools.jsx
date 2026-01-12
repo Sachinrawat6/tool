@@ -26,7 +26,8 @@ export const header_with_url = [
   },
    {
     header: "Cutting List Generator",
-    url: "https://newcuttinglist.netlify.app",
+    // url: "https://newcuttinglist.netlify.app",
+     url: "https://cuttinglist2.netlify.app",
     icon: <FaBoxes />,
   },
 
