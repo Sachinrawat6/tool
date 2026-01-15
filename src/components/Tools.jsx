@@ -93,7 +93,7 @@ export const header_with_url = [
   },
   {
     header: "RETURN INVENTORY STOCK",
-    url: "https://scanreturn.netlify.app/",
+    url: "https://scanreturn1.netlify.app/",
     icon: <FaBoxes />,
   },
   {
