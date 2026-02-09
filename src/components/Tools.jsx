@@ -82,7 +82,7 @@ export const header_with_url = [
   },
    {
     header: "Stylewise",
-    url: "https://stylewise.netlify.app/",
+    url: "https://stylewisev2.netlify.app/",
     icon: <FaWarehouse />,
   },
   {
