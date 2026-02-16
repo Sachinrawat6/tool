@@ -36,7 +36,8 @@ export const header_with_url = [
     header: "New Inventory management",
     // url: "https://qurviiinventory.netlify.app/",
     // url:"https://qurvii2.netlify.app/",
-    url:"https://qurvii3.netlify.app/",
+    // url:"https://qurvii3.netlify.app/",
+    url:"https://qurviiv4.netlify.app/",
     icon: <FaBoxes />,
   },
    {
