@@ -57,6 +57,11 @@ export const header_with_url = [
     icon: <FaSearch />,
   },
    {
+    header: "Catalogue Tracker",
+    url: "https://cataloguetracker.netlify.app/",
+    icon: <FaSearch />,
+  },
+   {
     header: "Zero Inventory",
     url: "https://zeroinventory.netlify.app",
     icon: <FaBoxes />,
@@ -136,7 +141,11 @@ export const header_with_url = [
     url: "https://qurviidash.netlify.app/",
     icon: <FaUserCircle />,
   },
-
+ {
+    header: "Realtime Dashboard",
+    url: "https://realtimedash1.netlify.app/",
+    icon: <FaUserCircle />,
+  },
   {
     header: "PRODUCT SEARCHER ADMIN DASHBOARD",
     url: "https://iadminpanel.netlify.app/",
