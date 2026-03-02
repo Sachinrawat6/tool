@@ -146,9 +146,14 @@ export const header_with_url = [
     url: "https://realtimedash1.netlify.app/",
     icon: <FaUserCircle />,
   },
+  // {
+  //   header: "PRODUCT SEARCHER ADMIN DASHBOARD",
+  //   url: "https://iadminpanel.netlify.app/",
+  //   icon: <FaUserCircle />,
+  // },
   {
     header: "PRODUCT SEARCHER ADMIN DASHBOARD",
-    url: "https://iadminpanel.netlify.app/",
+    url: "https://productfinderdashboard.netlify.app/",
     icon: <FaUserCircle />,
   },
 
