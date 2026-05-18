@@ -162,6 +162,11 @@ export const header_with_url = [
     url: "https://productfinderdashboard.netlify.app/",
     icon: <FaUserCircle />,
   },
+   {
+    header: "Tailor Missing Pcs",
+    url: "https://tailor-missing-pcs.netlify.app",
+    icon: <FaUserCircle />,
+  },
 
  
 ];
