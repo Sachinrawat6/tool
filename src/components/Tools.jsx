@@ -122,7 +122,7 @@ export const header_with_url = [
   },
   {
     header: "SHOPIFY OMS",
-    url: "https://shopifyoms.netlify.app/",
+    url: "https://shopifyomsv2.netlify.app/",
     icon: <FaBoxes />,
   },
   
