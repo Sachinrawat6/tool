@@ -51,6 +51,11 @@ export const header_with_url = [
     url: "https://return-processing.netlify.app",
     icon: <FaSearch />,
   },
+   {
+    header: "Pending Orders",
+    url: "https://pending-orders.netlify.app",
+    icon: <FaSearch />,
+  },
   {
     header: "Get Last Tailor",
     url: "https://get-last-tailor.netlify.app",
