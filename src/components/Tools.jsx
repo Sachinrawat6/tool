@@ -165,7 +165,7 @@ export const header_with_url = [
   },
  {
     header: "Realtime Dashboard",
-    url: "https://realtimedash1.netlify.app/",
+    url: "https://realtimedash2.netlify.app/",
     icon: <FaUserCircle />,
   },
   // {
