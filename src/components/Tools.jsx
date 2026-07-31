@@ -132,18 +132,18 @@ export const header_with_url = [
   },
   {
     header: "RETURN INVENTORY STOCK",
-    url: "https://scanreturn.netlify.app/",
-    // url: "https://scanreturn2.netlify.app/",
-    // url: "https://scanreturn3.netlify.app/",
-    icon: <FaBoxes />,
-  },
-  {
-    header: "Alteration Checking",
     // url: "https://scanreturn.netlify.app/",
     // url: "https://scanreturn2.netlify.app/",
     url: "https://scanreturn3.netlify.app/",
     icon: <FaBoxes />,
   },
+  // {
+  //   header: "Alteration Checking",
+  //   // url: "https://scanreturn.netlify.app/",
+  //   // url: "https://scanreturn2.netlify.app/",
+  //   url: "https://scanreturn3.netlify.app/",
+  //   icon: <FaBoxes />,
+  // },
   {
     header: "SHOPIFY OMS",
     url: "https://shopifyomsv2.netlify.app/",
