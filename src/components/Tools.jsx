@@ -192,6 +192,11 @@ export const header_with_url = [
     url: "https://tailor-missing-pcs.netlify.app",
     icon: <FaUserCircle />,
   },
+  {
+    header: "Fabric Usage Report",
+    url: "https://fabric-usage.netlify.app",
+    icon: <FaUserCircle />,
+  },
 
  
 ];
