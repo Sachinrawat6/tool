@@ -202,6 +202,11 @@ export const header_with_url = [
     url: "https://fabric-usage.netlify.app",
     icon: <FaUserCircle />,
   },
+   {
+    header: "Picklist Dashboard",
+    url: "https://picklist-dashboard.netlify.app",
+    icon: <FaBoxes />,
+  },
 
  
 ];
