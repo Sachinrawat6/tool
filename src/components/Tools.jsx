@@ -182,6 +182,11 @@ export const header_with_url = [
     url: "https://realtimedash2.netlify.app/",
     icon: <FaUserCircle />,
   },
+   {
+    header: "Automated Picklist",
+    url: "https://staging-picklist.qurvii.com",
+    icon: <FaUserCircle />,
+  },
   // {
   //   header: "PRODUCT SEARCHER ADMIN DASHBOARD",
   //   url: "https://iadminpanel.netlify.app/",
