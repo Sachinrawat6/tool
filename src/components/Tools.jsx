@@ -211,6 +211,10 @@ export const header_with_url = [
     header: "Picklist Dashboard",
     url: "https://picklist-dashboard.netlify.app",
     icon: <FaBoxes />,
+  },{
+    header: "New Sku Creator",
+    url: "https://new-sku-creator.netlify.app",
+    icon: <FaBoxes />,
   },
 
  
