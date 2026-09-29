@@ -216,6 +216,11 @@ export const header_with_url = [
     url: "https://new-sku-creator.netlify.app",
     icon: <FaBoxes />,
   },
+   {
+    header: "New User Creation",
+    url: "https://new-user-creation.netlify.app",
+    icon: <FaUserCircle />,
+  },
 
  
 ];
