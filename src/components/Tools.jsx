@@ -37,7 +37,8 @@ export const header_with_url = [
     // url: "https://qurviiinventory.netlify.app/",
     // url:"https://qurvii2.netlify.app/",
     // url:"https://qurvii3.netlify.app/",
-    url:"https://qurviiv4.netlify.app/",
+    // url:"https://qurviiv4.netlify.app/",
+    url:'https://qurvii-smart-inventory.netlify.app'
     icon: <FaBoxes />,
   },
    {
