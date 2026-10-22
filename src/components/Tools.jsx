@@ -43,8 +43,9 @@ export const header_with_url = [
   },
    {
     header: "OMS INVENTORY",
-    url: "https://orderidmapping.netlify.app",
+    // url: "https://orderidmapping.netlify.app",
      // url:"https://mapping3.netlify.app/",
+     url:'https://staging-oms-stock-keeping.qurvii.com/',
     icon: <FaBoxes />,
   },
   {
