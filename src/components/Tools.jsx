@@ -222,6 +222,11 @@ export const header_with_url = [
     url: "https://new-user-creation.netlify.app",
     icon: <FaUserCircle />,
   },
+  {
+    header: "Out of Stock Styles",
+    url: "https://out-of-stock-product.netlify.app",
+    icon: <FaBoxes />,
+  },
 
  
 ];
