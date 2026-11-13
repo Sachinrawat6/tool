@@ -209,6 +209,11 @@ export const header_with_url = [
     url: "https://fabric-usage.netlify.app",
     icon: <FaUserCircle />,
   },
+  {
+    header: "Max Qty Zero Live",
+    url: "https://max-qty-zero-live.netlify.app/",
+    icon: <FaBoxes />,
+  },
    {
     header: "Picklist Dashboard",
     url: "https://picklist-dashboard.netlify.app",
