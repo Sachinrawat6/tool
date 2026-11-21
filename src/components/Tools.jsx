@@ -230,7 +230,7 @@ export const header_with_url = [
   },
   {
     header: "Out of Stock Styles",
-    url: "https://out-of-stock-product.netlify.app",
+    url: "https://style-status.qurvii.com/",
     icon: <FaBoxes />,
   },
 
